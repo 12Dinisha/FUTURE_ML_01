@@ -52,4 +52,3 @@ The project includes:
 
 ---
 
-## 📁 Project Structure
