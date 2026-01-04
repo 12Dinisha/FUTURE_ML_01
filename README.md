@@ -48,7 +48,8 @@ The project includes:
   - Seaborn  
   - Prophet  
 - **Dashboard Tool:** Streamlit  
-- **Platform:** Jupyter Notebook / Google Colab  
+- **Platform:** Jupyter Notebook / Google Colab
+- Visualization Tool: Power BI (Interactive Sales Forecasting Dashboard)
 
 ---
 
